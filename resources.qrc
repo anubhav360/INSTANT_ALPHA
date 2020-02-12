@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>images/cooltext339114830885719.png</file>
+        <file>images/cooltext339114830885719_ciR_icon.ico</file>
+        <file>images/cooltext339114830885719_icon.png</file>
+        <file>images/cooltext339114830885719_MMs_icon.ico</file>
+    </qresource>
+</RCC>
