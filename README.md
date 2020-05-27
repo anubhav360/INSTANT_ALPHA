@@ -1,4 +1,4 @@
-# INSTANT_ALPHA
+## INSTANT_ALPHA 
 BlockChain using Node.js and C++
 
 The application simulates currency transactions backing them up with a fully functioning Block Chain.
